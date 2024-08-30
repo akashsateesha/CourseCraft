@@ -1,0 +1,9 @@
+.available-courses, .enrolled-courses {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+}
